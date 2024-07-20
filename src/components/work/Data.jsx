@@ -37,8 +37,8 @@ export const projectsData = [
     {
         id: 5,
         image: Work5,
-        title: "Data Analysis",
-        category: "dataanalysis",
+        title: "Data",
+        category: "data",
         link: "https://github.com/abhinav2697/AbhinavDataAnalystPortfolio.github.io",
     },
 ];
@@ -57,7 +57,7 @@ export const projectsNav = [
         name: 'backend',
     },
     {
-        name: 'dataanalysis',
+        name: 'data',
     }
 ];
 
