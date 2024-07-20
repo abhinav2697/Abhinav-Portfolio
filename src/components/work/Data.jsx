@@ -38,26 +38,26 @@ export const projectsData = [
         id: 5,
         image: Work5,
         title: "Data Analysis",
-        category: "Data Analysis",
+        category: "dataanalysis",
         link: "https://github.com/abhinav2697/AbhinavDataAnalystPortfolio.github.io",
     },
 ];
 
 export const projectsNav = [
     {
-        name: 'All',
+        name: 'all',
     },
     {
         name: 'Web',
     },
     {
-        name: 'Frontend',
+        name: 'frontend',
     },
     {
-        name: 'Backend',
+        name: 'backend',
     },
     {
-        name: 'Data Analysis',
+        name: 'dataanalysis',
     }
 ];
 
