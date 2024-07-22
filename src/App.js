@@ -10,7 +10,7 @@ import Testimonials from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp';
-// import { ThemeProvider } from './components/theme-context/theme-context';
+
 
 function App() {
   return (
