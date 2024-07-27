@@ -32,13 +32,6 @@ function App() {
       <ScrollUp />
   
     </>
-    
-   
-      
-   
-       
-      
-     
   );
 }
 
